@@ -3,7 +3,7 @@
 pageInfo:
   title: Hello, Alicia
   description: General browser startpage
-  logo: https://i.ibb.co/71WyyzM/little-bot-3.png
+  #logo: https://i.ibb.co/71WyyzM/little-bot-3.png
 
 # Optional app settings and configuration
 appConfig:
